@@ -1,0 +1,1 @@
+"C:/Users/Priyaa/Desktop/Machine Learning/ML_Assignment2/2/hw2_train/train/ham" "C:/Users/Priyaa/Desktop/Machine Learning/ML_Assignment2/2/hw2_train/train/spam" "C:/Users/Priyaa/Desktop/Machine Learning/ML_Assignment2/2/hw2_test/test/ham" "C:/Users/Priyaa/Desktop/Machine Learning/ML_Assignment2/2/hw2_test/test/spam" 0.1 6
